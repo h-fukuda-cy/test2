@@ -1,0 +1,14 @@
+baseurl = "/"
+languageCode = "en"
+title = "Sample Site"
+copyright = ""
+paginate = 3
+
+theme = "minimage"
+
+[params]
+  description = "This is a sample site."
+  logo = '/image/logo.png'
+
+[taxonomies]
+
