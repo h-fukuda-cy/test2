@@ -7,7 +7,7 @@
     ],
     "redirects": [ 
         {
-            "source": "/post/samplea/index.html",
+            "source": "/post/samplea/",
             "destination": "https://test3-c7d95.web.app/post/samplea/index.html",
             "type": 301
         }
