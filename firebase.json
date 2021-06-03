@@ -8,7 +8,7 @@
     "redirects": [
       {
         "source": "/ja/g/**",
-        "target": "/g/ja/**",
+        "target": "/post/sample1/**",
         "type": 302
       },
       {
