@@ -12752,11 +12752,11 @@
     "target": "https://help-jp.netlify.com/zh/sitemap_zh.xml",
     "type": 200
   },
-    {
-        "source": "/post/sampleb/**",
-        "destination": "https://test3-c7d95.web.app/post/sampleb/**",
-        "type": 200
-    },
+  {
+    "source": "/post/sampleb/**",
+    "destination": "https://test3-c7d95.web.app/post/sampleb/**",
+    "type": 200
+  },
   {
     "source": "/ja/**",
     "target": "/ja/404.html",
@@ -12772,7 +12772,7 @@
     "target": "/zh/404.html",
     "type": 404
   },
-]
+],
 
   }
 }
