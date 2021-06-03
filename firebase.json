@@ -10,7 +10,7 @@
       {
         "source": "/dummy/**",
         "destination": "https://test3-c7d95.web.app/post/",
-        "type": 302
+        "type": 200
       }
     ]
   }
