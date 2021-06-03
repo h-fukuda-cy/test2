@@ -7,11 +7,6 @@
     ],
     "redirects": [
       {
-        "source": "/post/sample2/**",
-        "target": "/post/sample1/**",
-        "type": 302
-      },
-      {
         "source": "/post/samplea/**",
         "destination": "https://test3-c7d95.web.app/post/samplea/**",
         "type": 302
