@@ -1,4 +1,5 @@
 baseurl = "/"
+UglyURLs = true
 languageCode = "en"
 title = "Sample Site"
 copyright = ""
