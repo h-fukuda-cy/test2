@@ -5,13 +5,12 @@
       "firebase.json",
       "**/.*"
     ],
-    "redirects":
-[
-  {
-    "source": "/post/sampleb/**",
-    "destination": "https://test3-c7d95.web.app/post/sampleb/**",
-    "type": 302
-  }
-]
+    "rewrites":
+    [
+      {
+        "source": "/post/sampleb/**",
+        "destination": "https://test3-c7d95.web.app/post/sampleb/**",
+      }
+    ]
   }
 }
