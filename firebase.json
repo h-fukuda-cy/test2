@@ -4749,8 +4749,8 @@
   },
   {
     "source": "/k/zh/user/people/personal_wall/follow_user.html",
-    "target": "302!",
-    "type": /k/zh/user/people/follow_user.html
+    "target": "/k/zh/user/people/follow_user.html",
+    "type": 302
   },
   {
     "source": "/k/zh/user/people/personal_wall/people_privacy.html",
