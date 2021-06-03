@@ -9,7 +9,7 @@
     [
       {
         "source": "/dummy/samplea.html",
-        "destination": "https://test3-c7d95.web.app/post/samplea.html"
+        "destination": "/dummy/sampleb.html"
       }
     ]
   }
