@@ -1,7 +1,7 @@
 ---
 date: 2020-05-01
 image: 'img/palmtree.jpg'
-title: Sample page 1
+title: Sample page A
 weight: 1
 ---
 
