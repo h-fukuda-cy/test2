@@ -8,8 +8,8 @@
     "rewrites":
     [
       {
-        "source": "/dummy/**",
-        "destination": "https://test3-c7d95.web.app/post/**"
+        "source": "/dummy/samplea.html",
+        "destination": "https://test3-c7d95.web.app/post/samplea.html"
       }
     ]
   }
