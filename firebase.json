@@ -8,11 +8,6 @@
     "redirects":
 [
   {
-    "source": "/ja/settings/browser/certificate/ip_safari.html",
-    "target": "/ja/settings/browser/certificate/iphone.html",
-    "type": 302
-  },
-  {
     "source": "/post/sampleb/**",
     "destination": "https://test3-c7d95.web.app/post/sampleb/**",
     "type": 200
