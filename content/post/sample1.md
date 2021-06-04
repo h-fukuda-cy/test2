@@ -7,6 +7,7 @@ weight: 10
 
 
 # This page is sample page 1.
-quote=&quot;
-curl1=&rdquo;
-curl2=&ldquo;
+
+
+<a href="/test">TEST</a>
+
