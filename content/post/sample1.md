@@ -9,5 +9,5 @@ weight: 10
 # This page is sample page 1.
 
 
-<a href="/test">TEST</a>
+[TEST]("/test")
 
