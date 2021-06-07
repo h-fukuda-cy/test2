@@ -9,7 +9,7 @@ weight: 10
 # This page is sample page 1.
 
 
-[TEST-A](/k/samplea.html)  
+[TEST-A](/k/post/samplea.html)  
 
-[TEST-B](/k/sampleb.html)  
+[TEST-B](/k/post/sampleb.html)  
 
