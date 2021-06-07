@@ -9,5 +9,6 @@ weight: 10
 # This page is sample page 1.
 
 
-[TEST](/test/samplea.html)
+[TEST-A](/test/samplea.html)
+[TEST-B](/test/sampleb.html)
 
