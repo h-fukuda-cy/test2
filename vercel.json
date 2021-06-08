@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/k/:match*", "destination": "https://test3-liard.vercel.app/k/:match*" }
+    { "source": "/k/:match*", "destination": "https://master.dwmv6sl2s4bq2.amplifyapp.com/k/:match*" }
   ]
 }
